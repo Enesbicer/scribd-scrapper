@@ -1,6 +1,7 @@
 # 📄 Scribd to PDF Downloader
 
-A lightweight Python tool to download Scribd documents as images and merge them into a single PDF using Selenium.
+A lightweight Python tool to download Scribd documents as images and merge them into a single PDF using Selenium. 
+Scribd: https://www.scribd.com
 
 ## 🚀 Features
 * **Auto-Scroll:** Automatically scrolls to load all pages.
